@@ -24,22 +24,6 @@ ___INFO___
   ]
 }
 
-{
-  "type": "TAG",
-  "id": "cvt_temp_public_id",
-  "version": 1,
-  "securityGroups": [],
-  "displayName": "Argoid GTM Clickstream",
-  "brand": {
-    "id": "brand_dummy",
-    "displayName": "Argoid"
-  },
-  "description": "",
-  "containerContexts": [
-    "WEB"
-  ]
-}
-
 
 ___TEMPLATE_PARAMETERS___
 
